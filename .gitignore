@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# from wes bos
+.DS_Store
+.idea
+haters/
+variables.env
+variables.env.now
